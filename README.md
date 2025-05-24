@@ -38,12 +38,12 @@ After launching, you can enter commands via standard input (keyboard).
 
 Supported Commands
 ------------------
-- insert <name>        â€” Insert a node with the given name
-- delete <name>        â€” Delete a node by name
-- dfs                  â€” Perform depth-first search and assign timestamps
-- query <d> <f>        â€” Return node with given discovery and finish time
-- print-rbt            â€” Print the tree structure with node colors
-- quit                 â€” Exit the program
+- insert <name>           Insert a node with the given name
+- delete <name>           Delete a node by name
+- dfs                     Perform depth-first search and assign timestamps
+- query <d> <f>           Return node with given discovery and finish time
+- print-rbt               Print the tree structure with node colors
+- quit                    Exit the program
 
 Example:
     insert 10
